@@ -1,0 +1,17 @@
+html {
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0px auto;
+    width: 1000px;
+    height: 500px;
+}
+#clock {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 10px;
+}
